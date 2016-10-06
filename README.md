@@ -23,7 +23,7 @@ The ADMIN user can enable or disable the plugin:
 
 ------------------------------------
 
-Without this plugin, the user is forced to Search for Contacts to add, at bottom of page:
+Without this plugin, the user must Search for Contacts to add, at bottom of page:  and the bad thing is that the search is of ALL contacts in the database! Which means tha the user is forced to type in not just a few characters of the first and last name - but the whole strings - to avoid matching many contacts that are not relevant.
 
 ![Screenshot](screenshot_without_the_plugin.png)
 
