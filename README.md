@@ -13,5 +13,5 @@ ScreenShots
 
 Without this plugin, the user is forced to Search for Contacts to add, at bottom of page:
 
-!(screenshot_without_the_plugin.png)
+![Screenshot](screenshot_without_the_plugin.png)
 
