@@ -9,7 +9,19 @@ NOTE:  We did not write this code - but did pay for it be written under a contra
 
 ScreenShots
 ===========
+This plugin provides the user a new Combo of Contacts to select from:
 
+![Screenshot of the Calls page](screenshot_Calls.png)
+
+Both Calls page and Meetings page have this new combo.
+
+The ADMIN user can enable or disable the plugin:
+
+![Screenshot of the Admin page](screenshot__Admin_Enable-Disable.png)
+
+
+
+------------------------------------
 
 Without this plugin, the user is forced to Search for Contacts to add, at bottom of page:
 
