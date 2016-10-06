@@ -7,4 +7,11 @@ The code works every day on a SugarcRM 6.5 CE version, hosted by salesAgility. A
 
 NOTE:  We did not write this code - but did pay for it be written under a contract that stated it would be open-sourced:  and this repository is simply to make it available to all.
 
+ScreenShots
+===========
+
+
+Without this plugin, the user is forced to Search for Contacts to add, at bottom of page:
+
+[[screenshot_without_the_plugin.png]]
 
